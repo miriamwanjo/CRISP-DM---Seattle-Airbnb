@@ -20,6 +20,10 @@
 
 The results of the project are summarized in a medium blog post: https://medium.com/@njoks2/finding-an-airbnb-in-seattle-3-things-to-consider-2afe025a3230
 
+## Files
+
+The Seattle zipfile contains 3 datasets: listings, calendar and reviews
+
 ## Licenses
 
 The Seattle Airbnb data was retrieved from Kaggle.com
